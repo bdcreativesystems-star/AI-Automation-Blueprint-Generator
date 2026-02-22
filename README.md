@@ -23,6 +23,15 @@ A local AI assistant built with LangChain and Ollama that generates automation w
 3. Install dependencies:
    pip install -r requirements.txt
 
+4. Run:
+   python app.py
+
+## Future Improvements
+- Streamlit UI
+- Save conversations to file
+- Add document upload (RAG)
+- Deploy as web app
+
 ## 📹 Live Demo
 
 Watch the AI in action:
@@ -32,12 +41,3 @@ Watch the AI in action:
 
 **Automating Invoices:**  
 ![Invoice Demo](demo/automate_invoices.mp4)
-
-5. Run:
-   python app.py
-
-## Future Improvements
-- Streamlit UI
-- Save conversations to file
-- Add document upload (RAG)
-- Deploy as web app
