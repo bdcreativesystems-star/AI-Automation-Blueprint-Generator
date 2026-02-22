@@ -23,7 +23,17 @@ A local AI assistant built with LangChain and Ollama that generates automation w
 3. Install dependencies:
    pip install -r requirements.txt
 
-4. Run:
+## 📹 Live Demo
+
+Watch the AI in action:
+
+**Onboarding New Clients:**  
+![CRM Demo](demo/onboarding_crm.mp4)
+
+**Automating Invoices:**  
+![Invoice Demo](demo/automate_invoices.mp4)
+
+5. Run:
    python app.py
 
 ## Future Improvements
